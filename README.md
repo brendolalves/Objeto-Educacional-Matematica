@@ -43,8 +43,7 @@ Clique no Botão "Code" no repositório do github do projeto:
 
 Selecione a opção "download zip"
 
-Extraia o arquivo zip em sua maquina, depois execute o arquivo app.exe
-<img width="1085" height="223" alt="Captura de tela 2026-06-18 095946" src="https://github.com/user-attachments/assets/d3add490-5786-4469-918d-e3b5f6371358" />
+Extraia o arquivo zip em sua maquina, depois execute o arquivo aplicativo.exe
 
 Ao executar o arquivo, você receberá esse aviso sobre o arquivo ser sobre o windows defendendo seu computador, clique em mais informações e ele avisará que é devido a um forncedor desconhecido, clique em executar assim mesmo:
 <img width="658" height="612" alt="Captura de tela 2026-06-18 100022" src="https://github.com/user-attachments/assets/8f84f144-e864-43df-ad7f-12919f34e009" />
